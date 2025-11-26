@@ -1,7 +1,7 @@
 [versions]
 agp = "8.13.1"
 blueprint = "1.1.52"
-coreSplashscreen = "1.0.1"
+coreSplashscreen = "1.2.0"
 ffmpegKitMin = "6.0-2"
 firebaseCrashlyticsGradle = "3.0.6"
 fragmentKtx = "1.8.9"
