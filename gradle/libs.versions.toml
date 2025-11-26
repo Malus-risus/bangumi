@@ -37,7 +37,7 @@ workRuntimeKtx = "2.9.1"
 vico = "2.0.0-alpha.5"
 slf4j-simple = "2.0.17"
 log4j-core = "2.25.2"
-poi = "5.4.1"
+poi = "5.5.0"
 
 [libraries]
 android-lottie = { module = "com.airbnb.android:lottie", version.ref = "lottieVersion" }
